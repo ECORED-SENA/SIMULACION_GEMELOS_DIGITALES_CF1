@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Gestor de funciones',
       significado:
-        'eComando empleado para asignar una función matemática como entrada del movimiento de un mecanismo. Esta asignación se podría definir desde una junta o desde un accionador.',
+        'Comando empleado para asignar una función matemática como entrada del movimiento de un mecanismo. Esta asignación se podría definir desde una junta o desde un accionador.',
     },
     {
       termino: 'Juntas',
@@ -318,7 +318,37 @@ export default {
           'Centro industrial del diseño y la manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro industrial del diseño y la manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro industrial del diseño y la manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro industrial del diseño y la manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro industrial del diseño y la manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro industrial del diseño y la manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Felipe Herrera Roldan',
         cargo: 'Producción audiovisual',
         centro:
           'Centro industrial del diseño y la manufactura - Regional Santander',
@@ -336,7 +366,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria camila ovalle ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro industrial del diseño y la manufactura - Regional Santander',

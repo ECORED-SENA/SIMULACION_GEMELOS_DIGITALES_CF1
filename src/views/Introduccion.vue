@@ -16,7 +16,7 @@
         p.mb-0 Estimado aprendiz, se le invita a ver el siguiente video que explica lo que tratará este componente formativo. Ánimo con este proceso que apenas comienza y que se espera sea de su agrado:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/9rwh8ezI3vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RjvaKGSy_0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

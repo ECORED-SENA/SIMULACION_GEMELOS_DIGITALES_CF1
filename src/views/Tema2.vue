@@ -61,7 +61,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=UKT-YAagB3I" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
           .row.justify-content-center
@@ -78,7 +78,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=DWz3h2wJ_OM" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
         separador.mb-5
@@ -119,7 +119,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=1oSWdW-dm1U" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
           .row(numero="2" titulo="Contacto entre engranajes")
@@ -142,7 +142,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=Wh-c2jaS_AM" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
     separador.mb-5
@@ -187,7 +187,7 @@
             img(src="@/assets/curso/img8.svg", style="width:50px").m-auto
     .row
       .col-12
-        p.mb-5 Crea una solución que define el tipo de análisis, el tipo de solución y las cargas específicas de la solución. Para ello, es necesario definir el tiempo final de la solución, el valor y las unidades de la gravedad.
+        p.mb-5 Crea una solución que define el tipo de análisis, el tipo de solución y las cargas específicas de la solución. Para ello, es necesario definir #[b el tiempo final de la solución], el valor y las unidades de la gravedad.
         .row.justify-content-center.mb-5
           .col-lg-6(data-aos="slide-right")
             .titulo-sexto.color-acento-contenido
@@ -197,7 +197,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/4vdVyTCuFUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     #2B
     br
@@ -221,7 +221,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/d-onKVpV5gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     #3B
     br
@@ -245,7 +245,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/EyfvfgHBfYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     .row.bg-color8.align-items-center.justify-content-center(data-aos="fade-down")
       .col-6.col-lg-3.mb-4.mb-lg-0

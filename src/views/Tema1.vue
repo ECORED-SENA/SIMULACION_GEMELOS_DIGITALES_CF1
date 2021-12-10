@@ -109,7 +109,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/EFxvi6LI8z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     #2A
     br
@@ -133,7 +133,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/rDijXuc75bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     #3A
     br
@@ -157,7 +157,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/IA2ELFGc7TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         hr
     #4A
     br
@@ -181,7 +181,7 @@
               figcaption Nota. Adaptada del sistema CAD NX 12.
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/srGFQfcdB1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.bg-color2
       .col-12.px-5
         separador.mb-5
@@ -214,7 +214,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=VIeV522NaQQ" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
           .row.justify-content-center
@@ -231,7 +231,7 @@
                       h3.text-deco3 Video tutorial
                       p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-lg-3
-                      a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                      a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=uTSy0hYcALQ" target="_blank" type="application/pdf")
                         span Ver video
                         i.fas.fa-file-download
         separador.mb-5
@@ -275,7 +275,7 @@
                           h3.text-deco3 Video tutorial
                           p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                         .col-lg-3
-                          a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                          a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=HzGUW8LO7Og" target="_blank" type="application/pdf")
                             span Ver video
                             i.fas.fa-file-download
               .row(numero="2" titulo="Punto sobre curva")
@@ -308,7 +308,7 @@
           h2 1.6 Análisis del movimiento
         .row.mb-5.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            p.mb-4 En la pestaña Análisis del espacio Movimiento, se encuentran los comandos que permiten reproducir y visualizar los resultados de una simulación, posteriormente a la creación de una solución.
+            p.mb-4 En la pestaña #[b Análisis] del espacio #[b Movimiento], se encuentran los comandos que permiten reproducir y visualizar los resultados de una simulación, posteriormente a la creación de una solución.
             .row.justify-content-center
               .col-10(data-aos="slide-right")
                 .titulo-sexto.color-acento-contenido
@@ -330,7 +330,7 @@
                   figcaption Nota. Adaptada del sistema CAD NX 12.
               .col-lg-6
                 h3 Solución de la simulación
-                p.mb-4 Crea una solución que define el tipo de análisis, el tipo de solución y las cargas específicas de la solución. Para ello, es necesario definir el tiempo final de la solución.
+                p.mb-4 Crea una solución que define el tipo de análisis, el tipo de solución y las cargas específicas de la solución. Para ello, es necesario definir el #[b tiempo final de la solución].
                 .row.align-items-center.justify-content-center.mb-5
                   .col-2.d-none.d-xxl-block
                     figure.img-position4
@@ -341,7 +341,7 @@
                         h3.text-deco3 Video tutorial
                         p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                       .col-lg-3
-                        a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                        a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=ZsvD0k_b7b8" target="_blank" type="application/pdf")
                           span Ver video
           .py-3.py-md-4(titulo="Resolver la solución de la simulación")
             .row.align-items-center
@@ -364,7 +364,7 @@
                         h3.text-deco3 Video tutorial
                         p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                       .col-lg-3
-                        a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                        a.boton.color-primario.me-3(href="https://www.youtube.com/watch?v=V2FkLb3fYmY" target="_blank" type="application/pdf")
                           span Ver video
   
 </template>
