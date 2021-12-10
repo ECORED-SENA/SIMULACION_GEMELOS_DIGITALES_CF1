@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Saberes adquiridos en el Modelado 3D en forma libre
-        p.mb-4 Falso o verdadero.
+        p.mb-4 Afianzar los conceptos fundamentales en el proceso de creación de modelos 3D en forma libre, a través de imágenes rasterizadas.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Afianzar los conceptos fundamentales en el proceso de creación de modelos 3D en forma libre, a través de imágenes rasterizadas.
+              p.fw-bold.mb-0 Falso o verdadero.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad1/index.html')" target="_blank")
                 span Realizar
