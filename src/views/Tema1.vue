@@ -244,7 +244,7 @@
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[span.text-deco1 Figura 12.] #[b Comandos de contacto entre elementos]
             figure
-              img(src='@/assets/curso/img15.png', style="width: 450px").m-auto
+              img(src='@/assets/curso/img15.png', style="width: 550px").m-auto
               figcaption Nota. Adaptada del sistema CAD NX 12.
           .col-12
             LineaTiempoD.color-primario
@@ -289,19 +289,6 @@
                       figure
                         img(src='@/assets/curso/img18.png', style="width: 450px").m-auto
                         figcaption Nota. Adaptada del sistema CAD NX 12.
-                  .row.align-items-center.justify-content-center.mb-5
-                    .col-2.d-none.d-lg-block
-                      figure.img-position3
-                        img(src='@/assets/curso/img14.png')
-                    .col-9.bg-color4.p-4
-                      .row.align-items-center.justify-content-end
-                        .col-12.col-lg-7.mb-4.mb-lg-0
-                          h3.text-deco3 Video tutorial
-                          p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
-                        .col-lg-3
-                          a.boton.color-primario.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                            span Ver video
-                            i.fas.fa-file-download
         separador.mb-5
         #t_1_6
         .titulo-segundo.color-secundario
@@ -310,14 +297,14 @@
           .col-lg-6.mb-4.mb-lg-0
             p.mb-4 En la pestaña #[b Análisis] del espacio #[b Movimiento], se encuentran los comandos que permiten reproducir y visualizar los resultados de una simulación, posteriormente a la creación de una solución.
             .row.justify-content-center
-              .col-10(data-aos="slide-right")
+              .col-10
                 .titulo-sexto.color-acento-contenido
                   p.mb-0 #[span.text-deco1 Figura 16.] #[b Análisis de movimiento]
                 figure
                   img(src='@/assets/curso/img19.png', style="width: 550px").m-auto
                   figcaption Nota. Adaptada del sistema CAD NX 12.
           .col-lg-6
-            figure(data-aos="slide-left")
+            figure
               img(src='@/assets/curso/img20.png', style="width: 500px").m-auto
         TabsC.color-primario
           .py-3.py-md-4(titulo="Solución de la simulación")
